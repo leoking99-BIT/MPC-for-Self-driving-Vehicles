@@ -1,0 +1,15 @@
+This folder holds simulation codes for Chapter 5
+
+* chapter5_1_1.m: Matlab code for nonlinear dynamic model linearization and discretization
+
+* chapter5_2_2.m: Matlab code for AFS use MPC
+
+* chapter5_5_2.m: Matlab code for Tire Cornering Stiffness Estimation 
+
+* chap5_DynamicModel_AFS :Matlab code for MPC of AFS
+
+* chap5_TireStiffness_Estimation: Matlab code for Tire Cornering Stiffness Estimation use RLS method
+
+* chap5_CorneringStiffness_Estimation: another Matlab code for Tire Cornering Stiffness Estimation use RLS method
+
+

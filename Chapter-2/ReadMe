@@ -1,0 +1,10 @@
+This folder holds simulation codes for Chapter 2
+
+* chapter_2_2_2.m:tire model validation
+
+* chapter_2_3_2.m:车辆动力学模型推导
+
+* chap2_KinematicModel_Validation: 运动学模型仿真验证
+
+* chap2_DynamicModel_Validation: 动力学模型仿真验证
+

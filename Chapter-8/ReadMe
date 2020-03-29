@@ -1,0 +1,5 @@
+This folder holds simulation codes for Chapter 8
+
+* chapter8_3_3.m: Matlab code for path tracking considering road terrain and rollover prevention
+
+* chapter8_rollover_prevention_terrain: Simulink/Carsim codes for Chapter 8

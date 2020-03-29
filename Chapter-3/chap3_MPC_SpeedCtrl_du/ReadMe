@@ -1,0 +1,1 @@
+MPC for speed tracking control, use change-of-acceleration (Delta_d_des) as control input

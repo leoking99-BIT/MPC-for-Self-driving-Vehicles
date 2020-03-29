@@ -1,0 +1,9 @@
+This folder holds simulation codes for Chapter 3
+
+* chatp3_MPC_Toolbox_DoubleInt: a simple example using MPC toolbox for speed tracking demo
+
+* chap3_MPC_SpeedCtrl_du: MPC for speed tracking control, with du as input
+
+* chap3_MPC_SpeedCtrl: Extended: MPC for speed tracking control, with u as input
+
+* chap3_MPC_AdaptiveCruiseCtrl_VLV: Extended: MPC for Adaptive Cruise Control, involve multi-vehicle joint simulation

@@ -1,0 +1,9 @@
+This folder holds simulation codes for Chapter 4
+
+* chapter4_4_2.m: Matlab code for given path tracking, 第一版中提供的程序，求解速度较慢
+
+* chap4_MPC_GivenPathTracking: Improved Matlab code for given path tracking，改进的程序，优化速度提高
+
+* chap4_MPC_SSM_PathTracking: MPC for general path tracking, use adaptive path fitting with 3rd-order Bezier curve and state-space model
+
+* chap4_MPC_ErrorModel_PathTracking: MPC for general path tracking, use bezier curve fitting and tracking-error model

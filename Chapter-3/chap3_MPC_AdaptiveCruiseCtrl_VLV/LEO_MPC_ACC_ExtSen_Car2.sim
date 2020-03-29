@@ -1,0 +1,8 @@
+SIMFILE
+INPUT C:\Users\Public\Documents\CarSim_Data\Runs\Run286_all.par
+ECHO C:\Users\Public\Documents\CarSim_Data\Runs\Run286_echo.par
+FINAL C:\Users\Public\Documents\CarSim_Data\Runs\Run286_end.par
+LOGFILE C:\Users\Public\Documents\CarSim_Data\Runs\Run286_log.txt
+ERDFILE C:\Users\Public\Documents\CarSim_Data\Runs\Run286.erd
+DLLFILE C:\Users\Public\Documents\CarSim_Data\Extensions\Simulink\Multi_Vehicle\i_i2_64.dll
+END

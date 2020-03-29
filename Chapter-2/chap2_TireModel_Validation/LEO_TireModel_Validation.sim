@@ -1,0 +1,8 @@
+SIMFILE
+INPUT C:\Users\Public\Documents\CarSim_Data\Runs\Run280_all.par
+ECHO C:\Users\Public\Documents\CarSim_Data\Runs\Run280_echo.par
+FINAL C:\Users\Public\Documents\CarSim_Data\Runs\Run280_end.par
+LOGFILE C:\Users\Public\Documents\CarSim_Data\Runs\Run280_log.txt
+ERDFILE C:\Users\Public\Documents\CarSim_Data\Runs\Run280.erd
+DLLFILE C:\Program Files (x86)\CarSim810_Prog\Programs\Solvers\Default64\i_i.dll
+END

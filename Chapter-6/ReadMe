@@ -1,0 +1,7 @@
+This folder holds simulation codes for Chapter 6
+
+* chapter6_2_4.m: Matlab code for traj_planner use MPC
+
+* Chapter6_3.m: Matlab code for MPC tracking controller
+
+* chap6_LocalPlan_TrackingCtrl: Simulink/Carsim codes for Chapter 6

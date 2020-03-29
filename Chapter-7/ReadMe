@@ -1,0 +1,5 @@
+This folder holds simulation codes for Chapter 7
+
+* chapter7_4_2.m: Matlab code for handling stability of high-speed AGVs with MPC
+
+* chapter_7_MPC_highspeed_handlig_stability: Simulink/Carsim codes for Chapter 7
