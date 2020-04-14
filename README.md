@@ -1,4 +1,4 @@
-# 无人驾驶车辆与模型预测控制(第2版)
+# 无人驾驶车辆模型预测控制(第2版)
 
 无人驾驶车辆模型预测控制(第2版)随书仿真程序及扩展学习资料.
 
@@ -9,7 +9,6 @@ This repo holds the Simulink/CarSim codes for examples of Self-driving Vehicles 
 
 1. Chapter-2: Vehicle model validation, including 4 examples
     * tire model validation
-    * dynamic model derivation
     * kinematic model validation
     * dynamic model validation
 
