@@ -22,7 +22,7 @@ function [WPIndex, RefP, RefU, Uaug, Uaug_0, PrjP, Roll_BaknR] = func_RefTraj_Lo
 %---------------------------------------------------------------%
 % Published by: Kai Liu
 % Email:leoking1025@gmail.com
-% My homepage: https://sites.google.com/site/kailiumiracle/  
+% My github: https://github.com/leoking99-BIT
 %***************************************************************%
 
 %*********** Parameters Initialization *************************% 

@@ -7,7 +7,7 @@ function [sys,x0,str,ts] =Main_CorneringStiffness_Comparison_RLS_Alt_new(t,x,u,f
 %---------------------------------------------------------------%
 % Published by: Kai Liu
 % Email:leoking1025@gmail.com 
-% My homepage: https://sites.google.com/site/kailiumiracle/  
+% My github: https://github.com/leoking99-BIT  
 %***************************************************************% 
     switch flag,
         case 0 % Initialization %
