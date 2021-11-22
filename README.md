@@ -53,6 +53,6 @@ Please report any issues via the [Github issue tracker](https://github.com/leoki
 ## Contact Me
 Personal homepage: [https://leoking99-bit.github.io/](https://leoking99-bit.github.io/)
 
-Email: leoking1025@bit.edu.cn
+Email: leoking1025@gmail.com
 
 If you have any questions or suggestions, please don't hesitate to contact me. Any advices and comments would be highly appreciated. 
